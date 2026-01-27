@@ -1,4 +1,4 @@
-# 👋 Привет, я Swarthma - начинающий DevOps инженер
+# 👋 Привет, я Галиуллин Линар/Swarthma - начинающий DevOps инженер
 
 [![Email](https://img.shields.io/badge/Email-linar.9207@gmail.com-D14836?logo=gmail)](mailto:linar.9207@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Linar9207-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Linar9207)
