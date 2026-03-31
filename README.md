@@ -107,6 +107,16 @@
 - Развертывание распределенных систем
 - Работа с базами данных в автоматическом режиме
 
+ ### 📈 **Продвинутый мониторинг**
+#### [DO9_Monitoring - Расширенный мониторинг](https://github.com/Swarthma/DO9_Monitoring)
+**Технологии:** Prometheus, Loki, Grafana, Alertmanager, Docker Swarm, Micrometer, Java
+- Инструментация Java-микросервисов метриками (RabbitMQ, бронирования, запросы)
+- Централизованный сбор логов через Loki + Promtail с обогащением метками
+- Визуализация метрик и логов в Grafana (дашборд с 15+ панелями)
+- Настройка алертинга (память, CPU, RAM) и отправка уведомлений в Telegram/email
+- Развёртывание стека мониторинга в Docker Swarm
+**Результат:** Полноценная система observability для микросервисной архитектуры.
+
 ### 🗃️ **Базы данных**
 #### [SQLB1_Basics - Основы SQL](https://github.com/Swarthma/SQLB1_Basics)
 **Технологии:** PostgreSQL, SQL, Relations, Joins
