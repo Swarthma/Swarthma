@@ -127,6 +127,15 @@
 - Использование Minikube Dashboard для визуализации
 **Результат:** Рабочее приложение в Kubernetes и понимание основ оркестрации.
 
+  #### [DO11_AdvK8s - Продвинутый Kubernetes](https://github.com/Swarthma/DO11_AdvK8s)
+**Технологии:** Kubernetes, k3s, Helm, Ingress, cert-manager, Prometheus, Grafana, Persistent Volumes
+- Развёртывание кластера k3s на трёх виртуальных машинах (Vagrant)
+- Настройка Ingress Controller и TLS-сертификатов через cert-manager
+- Persistent Storage для PostgreSQL (PV/PVC)
+- Установка kube-prometheus-stack через Helm для мониторинга
+- Применение манифестов для 7 микросервисов с ConfigMap и Secret
+**Результат:** Полноценный production-подобный кластер с мониторингом и безопасным доступом.
+
 ### 🗃️ **Базы данных**
 #### [SQLB1_Basics - Основы SQL](https://github.com/Swarthma/SQLB1_Basics)
 **Технологии:** PostgreSQL, SQL, Relations, Joins
