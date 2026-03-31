@@ -117,6 +117,16 @@
 - Развёртывание стека мониторинга в Docker Swarm
 **Результат:** Полноценная система observability для микросервисной архитектуры.
 
+ ### ☸️ **Kubernetes**
+#### [DO10_BasicK8s - Основы Kubernetes](https://github.com/Swarthma/DO10_BasicK8s)
+**Технологии:** Kubernetes, Minikube, kubectl, ConfigMap, Secret, PostgreSQL, RabbitMQ
+- Развертывание микросервисного приложения в Kubernetes с использованием манифестов
+- Создание ConfigMap и Secret для управления конфигурацией
+- Сравнение стратегий обновления (Recreate vs RollingUpdate)
+- Прокидывание портов и тестирование через Postman
+- Использование Minikube Dashboard для визуализации
+**Результат:** Рабочее приложение в Kubernetes и понимание основ оркестрации.
+
 ### 🗃️ **Базы данных**
 #### [SQLB1_Basics - Основы SQL](https://github.com/Swarthma/SQLB1_Basics)
 **Технологии:** PostgreSQL, SQL, Relations, Joins
