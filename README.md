@@ -136,6 +136,14 @@
 - Применение манифестов для 7 микросервисов с ConfigMap и Secret
 **Результат:** Полноценный production-подобный кластер с мониторингом и безопасным доступом.
 
+  #### [DO12_Helm - Управление Kubernetes с Helm и Kustomize](https://github.com/Swarthma/DO12_Helm)
+**Технологии:** Helm, Kustomize, Kubernetes, k3s, PostgreSQL, RabbitMQ
+- Использование Kustomize для базовой конфигурации и overlay-патчей
+- Создание параметризованного Helm-чарта для микросервисов
+- Управление релизами (install, upgrade, rollback)
+- Упаковка чарта в архив
+**Результат:** Освоены Helm и Kustomize для управления манифестами.
+
 ### 🗃️ **Базы данных**
 #### [SQLB1_Basics - Основы SQL](https://github.com/Swarthma/SQLB1_Basics)
 **Технологии:** PostgreSQL, SQL, Relations, Joins
