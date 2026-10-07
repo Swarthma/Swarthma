@@ -144,6 +144,15 @@
 - Упаковка чарта в архив
 **Результат:** Освоены Helm и Kustomize для управления манифестами.
 
+  #### [DO13_CICD_Pipeline - CI/CD пайплайн с GitLab](https://github.com/Swarthma/DO13_CICD_Pipeline)
+**Технологии:** GitLab CI, Kaniko, Helm, Kubernetes, Newman, Docker
+- Настройка GitLab Runner в Kubernetes (k3s)
+- Полный пайплайн: сборка, модульные тесты, сборка образов, деплой
+- Сборка Docker-образов через Kaniko без Docker-демона
+- Автоматический деплой в staging через Helm и функциональные тесты Newman
+- Ручное подтверждение для продакшн-деплоя
+**Результат:** Полностью автоматизированный CI/CD пайплайн для микросервисного приложения.
+
 ### 🗃️ **Базы данных**
 #### [SQLB1_Basics - Основы SQL](https://github.com/Swarthma/SQLB1_Basics)
 **Технологии:** PostgreSQL, SQL, Relations, Joins
